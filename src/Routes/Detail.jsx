@@ -1,3 +1,4 @@
+import React from "react";
 import DetailCard from "../Components/DetailCard";
 
 const Detail = () => {
@@ -8,4 +9,4 @@ const Detail = () => {
   )
 }
 
-export default Detail
+export default Detail;

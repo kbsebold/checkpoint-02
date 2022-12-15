@@ -1,4 +1,5 @@
-import LoginForm from "../Components/LoginForm";
+import React from "react";
+import LoginForm from "../Components/Login/index";
 
 const Contact = () => {
   return (
